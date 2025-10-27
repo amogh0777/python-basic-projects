@@ -45,7 +45,7 @@ else :
       print("It was an invalid function request.Try Again")
 
 print(a)      
-
-print("Thank you for using Chandan Softwares")      
+    
       
            
+
