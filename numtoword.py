@@ -18,6 +18,6 @@ for x in num:
 print(output)      
 print(num)
 
-print("Thank you for using Chandan Softwares")      
-      
+
            
+
