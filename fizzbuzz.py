@@ -13,6 +13,5 @@ elif fizz == ans :
 else :
       print(f"{a} cannot fizz or buzz")      
 
-print("Thank you for using Chandan Softwares")      
-      
            
+
