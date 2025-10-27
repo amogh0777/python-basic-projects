@@ -80,5 +80,6 @@ if  score_required == "y" :
 else:
       pass
 
-print("Thank you for using Chandan Softwares")      
+
+
 
