@@ -10,6 +10,6 @@ e = a * b - c / d
 
 print(f"{name}, The sum of abcd is >>  {e} " )
 
-print("Thank you for using Shreyas Softwares")      
       
            
+
