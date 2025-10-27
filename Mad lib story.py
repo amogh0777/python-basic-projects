@@ -1,6 +1,5 @@
 
-print("This is a madlib generator coded by Chandan S Gowda")
-
+print("This is a madlib generator coded by Amogh SR")
 color = input("Give me a colour >>  ").capitalize()
 pnoun = input("Give me a plural noun  >>  ").capitalize()
 gender = input("Your gender  [male/female/other] >>  ").lower()
@@ -25,3 +24,4 @@ print(f"Roses are {color}")
 print(f"{pnoun} are Blue")
 print("I love you")
 print(celeb)
+
